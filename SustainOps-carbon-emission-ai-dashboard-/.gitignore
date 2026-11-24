@@ -1,0 +1,8 @@
+@"
+.env
+*.key
+api-key-backup.txt
+__pycache__/
+.venv/
+venv/
+"@ | Set-Content .gitignore
