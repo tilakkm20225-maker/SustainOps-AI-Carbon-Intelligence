@@ -51,14 +51,17 @@ SustainOps-carbon-emission-ai-dashboard-
 ```
 ---
 
-## Author:
----
+###  About the Author
 
 
-**Tilak Moger**
-
-B.Tech – Computer Science and Engineering (Cyber Security)
-
+### Tilak Moger
+B.Tech – Computer Science and Engineering (Cyber Security)  
 Dayananda Sagar University, Bangalore, Karnataka.
 
 GitHub: [tilakkm20225-maker](https://github.com/tilakkm20225-maker)
+
+### Amrit Pratya
+B.Tech – Artificial Intelligence and Robotics
+
+### Interests
+Cybersecurity, Artificial Intelligence, Machine Learning, Robotics, and Sustainable Technology.
